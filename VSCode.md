@@ -1,6 +1,8 @@
 Here are some VSCode shortcuts I find useful. I learned most of them from videos below:
 [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI)
+
 [VSCode Keyboard Shortcuts For Productivity](https://www.youtube.com/watch?v=Xa5EU-qAv-I&t=94s)
+
 [Work faster and smarter with these VS Code shortcuts](https://www.youtube.com/watch?v=qpOlG7BYJlQ)
 
 ## Open/View
