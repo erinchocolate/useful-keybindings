@@ -10,7 +10,7 @@ This is a collection of useful keybindings/commands I learned using different to
 [Terminal]
 
 ## Creating
-[Obsidian]
+[Obsidian](https://github.com/erinchocolate/keybindings/blob/master/Obsidian.md)
 
 [Premiere Pro]
 
