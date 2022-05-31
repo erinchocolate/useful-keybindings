@@ -1,7 +1,7 @@
-This is a collection of useful keybindings/commands I learned using different tools.
+This is a collection of useful keybindings/commands/workflows I learned using different tools.
 
-## Programming
-[VSCode](https://github.com/erinchocolate/keybindings/blob/master/VSCode.md)
+## Keybindings
+[VSCode](https://github.com/erinchocolate/my-tools/blob/master/keybindings/VSCode.md)
 
 [NeoVim]
 
@@ -9,9 +9,15 @@ This is a collection of useful keybindings/commands I learned using different to
 
 [Terminal]
 
-## Creating
-[Obsidian](https://github.com/erinchocolate/keybindings/blob/master/Obsidian.md)
+[Obsidian](https://github.com/erinchocolate/my-tools/blob/master/keybindings/Obsidian.md)
 
-[Premiere Pro]
+## Workflows
 
-[After Effect]
+[Webpack starter](https://github.com/erinchocolate/my-tools/tree/master/workflow/webpack-starter)
+
+[Parcel + Sass](https://github.com/erinchocolate/my-tools/tree/master/workflow/parcel-sass-starter)
+
+[Gulp + Sass + BrowserSync](https://github.com/erinchocolate/my-tools/tree/master/workflow/gulp-sass-starter)
+
+
+
