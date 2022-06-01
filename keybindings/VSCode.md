@@ -7,239 +7,102 @@ Here are some VSCode shortcuts I find useful. I learned most of them from videos
 [Work faster and smarter with these VS Code shortcuts](https://www.youtube.com/watch?v=qpOlG7BYJlQ)
 
 ## Open/View
-Open Command Pallete
-```
-Shift+Ctrl+P
-```
 
-Access Settings
-```
-Ctrl+,
-```
-
-Toggle Sidebar
-```
-Ctrl+B
-```
-
-Toggle file explorer
-```
-Ctrl+shift+E
-```
-
-Open New Window/Instance
-```
-Shift+Ctrl+N
-```
-
-Close Window
-```
-Ctrl+W
-```
+| Shortcut     | Action                   |
+| ------------ | ------------------------ |
+| Shift+Ctrl+P | Open Command Pallete     |
+| Ctrl+,       | Access Settings          |
+| Ctrl+B       | Toggle Sidebar           |
+| Ctrl+shift+E | Toggle file explorer     |
+| Shift+Ctrl+N | Open New Window/Instance |
+| Ctrl+W       | Close Window             |
 
 ## Working With Files
-Sidebar Focus
-```
-Shift+Ctrl+E
-```
 
-Open File/Folder From Sidebar
-```
-Ctrl+Down
-```
-
-Change File Tabs
-```
-Ctrl+Tab
-```
-
-Quick File Open
-```
-Ctrl+P
-```
-
-Open File From Explorer
-```
-Ctrl+O
-```
-
-New File
-```
-Ctrl+N
-```
-
-Delete File
-```
-Ctrl+Delete
-```
-
-Reopen Files
-```
-Shift+Ctrl+T
-```
-
-Spilt Editor
-```
-Ctrl+\
-```
+| Shortcut     | Action                        |
+| ------------ | ----------------------------- |
+| Shift+Ctrl+E | Sidebar Focus                 |
+| Ctrl+Down    | Open File/Folder From Sidebar |
+| Ctrl+Tab     | Change File Tabs              |
+| Ctrl+P       | Quick File Open               |
+| Ctrl+O       | Open File From Explorer       |
+| Ctrl+N       | New File                      |
+| Ctrl+Delete  | Delete File                   |
+| Shift+Ctrl+T | Reopen Files                  |
+| Ctrl+\       | Spilt Editor                  |
 
 ## Tabs
-Reopen a tab you just closed
-```
-Ctrl+shift+T
-```
 
-Go to specific tab you open
-```
-Alt+number
-```
-
-Close a tab
-```
-Ctrl+W
-```
+| Shortcut     | Action                       |
+| ------------ | ---------------------------- |
+| Ctrl+shift+T | Reopen a tab you just closed |
+| Alt+number   | Go to specific tab you open  |
+| Ctrl+W       | Close a tab                  |
 
 ## Code Editing
-### Highlighting
-Highlight Code
-```
-Shift+Any Direction
-```
 
-Hightlight Line
-```
-Ctrl+L
-```
+### Highlighting
+
+| Shortcut            | Action          |
+| ------------------- | --------------- |
+| Shift+Any Direction | Highlight Code  |
+| Ctrl+L              | Hightlight Line |
 
 ### Navigate
-Go To Specific Line
-```
-Ctrl+G
-```
 
-Go To Start & End Of Line(Word)
-```
-Ctrl+Right
-Ctrl+Left
-
-home
-end
-```
-
-Go To Start & End Of File(The whole line)
-```
-Ctrl+Home
-Ctrl+End
-```
-
-Go to Entity (Functions, vars, etc)
-```
-Ctrl+Shift+O
-```
-
-Jump To Matching Bracket
-```
-Shift+Ctrl+\
-```
+| Shortcut                     | Action                                    |
+| ---------------------------- | ----------------------------------------- |
+| Ctrl+G                       | Go To Specific Line                       |
+| Ctrl+Right/Left<br/>home/end | Go To Start & End Of Line(Word)           |
+| Ctrl+Home/End                | Go To Start & End Of File(The whole line) |
+| Ctrl+Shift+O                 | Go to Entity (Functions, vars, etc)       |
+| Shift+Ctrl+\                 | Jump To Matching Bracket                  |
 
 ### Editing
-Insert Line
-```
-Ctrl+Enter # Insert below
-Shift+Ctrl+Enter # Insert above
-```
 
-Cut Line
-```
-Ctrl+X
-```
-
-Remove Line
-```
-Shift+Ctrl+K
-```
+| Shortcut                                                     | Action      |
+| ------------------------------------------------------------ | ----------- |
+| Ctrl+Enter # Insert below<br/>Shift+Ctrl+Enter # Insert above | Insert Line |
+| Ctrl+X                                                       | Cut Line    |
+| Shift+Ctrl+K                                                 | Remove Line |
 
 ### Move
-Move By Word
-```
-Ctrl+Right
-Ctrl+Left
-```
 
-Move Line Up & Down
-```
-Alt+Up
-Alt+Down
-```
-
-Copy Line Up & Down
-```
-Shift+Alt+Up
-Shift+Alt+Down
-```
-
-Move selection up or down
-```
-Alt+shift+up/down
-```
-
-Scrolling up or down
-```
-Ctrl+up/down
-```
+| Shortcut          | Action                    |
+| ----------------- | ------------------------- |
+| Ctrl+Right/Left   | Move By Word              |
+| Alt+Up/Down       | Move Line Up & Down       |
+| Shift+Alt+Up/Down | Copy Line Up & Down       |
+| Alt+shift+Up/Down | Move selection up or down |
+| Ctrl+Up/Down      | Scrolling up or down      |
 
 ### Comment
-Add Line Comment
-```
-Ctrl+/
-```
 
-Add Block Comment
-```
-Shift+Alt+A
-```
+| Shortcut    | Action            |
+| ----------- | ----------------- |
+| Ctrl+/      | Add Line Comment  |
+| Shift+Alt+A | Add Block Comment |
 
 ### Select
-Select Next Match
-```
-Ctrl+D
-```
 
-De-select Match
-```
-Ctrl+U
-```
-
-Select All Matches
-```
-Ctrl+Shift+L
-```
+| Shortcut     | Action             |
+| ------------ | ------------------ |
+| Ctrl+D       | Select Next Match  |
+| Ctrl+U       | De-select Match    |
+| Ctrl+Shift+L | Select All Matches |
 
 ### Cursor
-New line and move cursor up
-```
-Ctrl+Shift+Enter
-```
 
-Multiple cursor
-```
-Alt+Click
-```
+| Shortcut         | Action                      |
+| ---------------- | --------------------------- |
+| Ctrl+Shift+Enter | New line and move cursor up |
+| Alt+Click        | Multiple cursor             |
 
 ### Terminal
-Toggle Terminal
-```
-Ctrl+ `
-```
 
-Create New Terminal
-```
-Shift+Ctrl+`
-```
-
-Clear Terminal
-```
-Ctrl+K
-```
-
+| Shortcut     | Action              |
+| ------------ | ------------------- |
+| Ctrl+ `      | Toggle Terminal     |
+| Shift+Ctrl+` | Create New Terminal |
+| Ctrl+K       | Clear Terminal      |
 
