@@ -1,7 +1,7 @@
 This is a collection of useful keybindings and commands I learned using different tools.
 
 ## Keybindings
-[VSCode]([https://github.com/erinchocolate/my-tools/blob/master/keybindings/VSCode.md](https://github.com/erinchocolate/useful-keybindings/blob/master/VSCode.md))
+[VSCode](https://github.com/erinchocolate/useful-keybindings/blob/master/VSCode.md)
 
 [NeoVim]
 
@@ -9,7 +9,7 @@ This is a collection of useful keybindings and commands I learned using differen
 
 [Terminal]
 
-[Obsidian]([https://github.com/erinchocolate/my-tools/blob/master/keybindings/Obsidian.md](https://github.com/erinchocolate/useful-keybindings/blob/master/Obsidian.md))
+[Obsidian](https://github.com/erinchocolate/useful-keybindings/blob/master/Obsidian.md)
 
 
 
